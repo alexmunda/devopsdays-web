@@ -20,7 +20,7 @@ description = "devopsdays returns July 25 & 26 to downtown Minneapolis."
 
 **Livestream**
 
-<a href="https://www.youtube.com/watch?v=KunCdbykyHg&feature=youtu.be">Link to livestream</a>
+<a href="https://www.youtube.com/watch?v=GrdKEYu_lQs&feature=youtu.be">Link to livestream</a>
 
 <div class = "row">
   <div class = "col-md-2">
